@@ -31,7 +31,7 @@ It focuses on understanding and practicing **Python data structures**, specifica
 - Jupyter Notebook
 
 ## 📂 Files
-- `task_1.ipynb` – Contains all solutions with comments and markdown explanations
+Adebimpe's Assignment.ipynb` – Contains all solutions with comments and markdown explanations
 
 ## 🚀 Status
 Still learning and building my skills in **data analysis and data science**.  
